@@ -102,7 +102,7 @@
         },
         "hover": {
           "background": {
-            "value": "{button.primary.active.shadow}",
+            "value": "{core.colors.primary.50}",
             "type": "color"
           }
         },
