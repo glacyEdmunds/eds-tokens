@@ -11,7 +11,7 @@
       },
       "hover": {
         "background": {
-          "value": "{core.colors.grey.50}",
+          "value": "{button.primary.active.shadow}",
           "type": "color"
         }
       },
